@@ -1,2 +1,3 @@
-# public-audit-reports
-Public audit reports from Verichains.
+This repo consists some of public security audit reports from Verichains Lab.
+
+Details
